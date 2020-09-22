@@ -1,0 +1,81 @@
+/*...............this section  represent the header color and others values....*/
+.black-background{
+    background-color:black;
+    color:white;
+    text-align:center;
+    margin:0px;
+    height: 110px;
+
+}
+/*.........h1 and h2 values...............*/
+h1{
+padding:12px;
+font-size: 35px;
+font-family: sens-serif;
+}
+
+h2{
+    font-size: 20px;
+    font-family: sens-serif; 
+    text-align:center;
+}
+
+h3{
+    text-align: center;
+    padding:1px;   
+}
+
+/*.....footer propeties and values......... */
+
+footer{
+    padding: 10px;
+    height: 80px;;
+    margin-top: 0;
+    text-align: center;
+    background-color: black;
+    font-size:30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+}
+
+/*...HR establsih horizontal lines inside the doc......*/
+
+hr{
+    height:1px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    transform-style: flat;
+  }
+
+  /*......section center everyhting in the document.......*/
+  
+section{
+ width:600px;
+ margin: auto;
+}
+
+/*..........images..............*/
+img{
+    margin-top: 20px;
+    width: 600px;
+    height:650px;
+    border-radius:10%;
+}
+
+/*.........main background color ...........*/
+.textcolor{
+    background-color: rgb(240, 230, 230);
+}
+/*.........list and anchor element.........*/
+a:link{
+text-decoration: none;
+padding: 1px;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color:red;
+}
+
+/* need to add pseudo code  */
